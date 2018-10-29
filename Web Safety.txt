@@ -1,0 +1,6 @@
+Name: Mohammed Rifas S
+USN: 1CR17CS075
+
+File: "Web Safety.html"
+Coded using: Visual Studio Code
+Basic HTML, no css file attached 
